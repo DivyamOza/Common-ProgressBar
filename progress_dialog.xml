@@ -24,7 +24,7 @@
             android:layout_marginRight="1sp"
             android:fontFamily="cursive"
             android:padding="2sp"
-            android:text="@string/lbl_loading"
+            android:text="Loading"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@android:color/black"
